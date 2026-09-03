@@ -1,0 +1,108 @@
+{
+  "version": "1.2.0",
+  "min_version": "1.2.0",
+  "notice_vi": "",
+  "voices": [
+    {
+      "id": "Minh Đức",
+      "label": "Nam · Bắc · Phong cách tin tức",
+      "region": "Bắc"
+    },
+    {
+      "id": "Phạm Tuyên",
+      "label": "Nam · Bắc · Phong cách tự nhiên",
+      "region": "Bắc"
+    },
+    {
+      "id": "Thái Sơn",
+      "label": "Nam · Nam · Phong cách kể chuyện",
+      "region": "Nam"
+    },
+    {
+      "id": "Xuân Vĩnh",
+      "label": "Nam · Nam · Phong cách tự nhiên",
+      "region": "Nam"
+    },
+    {
+      "id": "Thanh Bình",
+      "label": "Nam · Bắc · Phong cách kể chuyện",
+      "region": "Bắc"
+    },
+    {
+      "id": "Trúc Ly",
+      "label": "Nữ · Bắc · Phong cách tự nhiên",
+      "region": "Bắc"
+    },
+    {
+      "id": "Ngọc Linh",
+      "label": "Nữ · Bắc · Phong cách kể chuyện",
+      "region": "Bắc"
+    },
+    {
+      "id": "Đoan Trang",
+      "label": "Nữ · Bắc · Phong cách tự nhiên",
+      "region": "Bắc"
+    },
+    {
+      "id": "Mai Anh",
+      "label": "Nữ · Bắc · Phong cách tin tức",
+      "region": "Bắc"
+    },
+    {
+      "id": "Thục Đoan",
+      "label": "Nữ · Nam · Phong cách kể chuyện",
+      "region": "Nam"
+    },
+    {
+      "id": "Minh Triết",
+      "label": "Nam · Nam · Phong cách tin tức",
+      "region": "Nam"
+    },
+    {
+      "id": "Thùy Dung",
+      "label": "Nữ · Nam · Phong cách tin tức",
+      "region": "Nam"
+    },
+    {
+      "id": "Quang Sơn",
+      "label": "Nam · Trung · Phong cách tự nhiên",
+      "region": "Trung"
+    },
+    {
+      "id": "Ngọc Trân",
+      "label": "Nữ · Trung · Phong cách tự nhiên",
+      "region": "Trung"
+    },
+    {
+      "id": "Mỹ Duyên",
+      "label": "Nữ · Nam · Phong cách đọc truyện",
+      "region": "Nam"
+    },
+    {
+      "id": "Quỳnh Anh",
+      "label": "Nữ · Bắc · Phong cách đọc truyện",
+      "region": "Bắc"
+    },
+    {
+      "id": "Đức Trí",
+      "label": "Nam · Nam · Phong cách đọc truyện",
+      "region": "Nam"
+    },
+    {
+      "id": "Kim Thanh",
+      "label": "Nữ · Nam · Phong cách đọc truyện",
+      "region": "Nam"
+    },
+    {
+      "id": "Ngọc Huyền",
+      "label": "Nữ · Bắc · Giọng đọc tự nhiên",
+      "region": "Bắc"
+    },
+    {
+      "id": "Adam",
+      "label": "Nam · Nam · Giọng đọc tự nhiên",
+      "region": "Nam"
+    }
+  ],
+  "download_page": "https://studyai5phut.com/download"
+}
