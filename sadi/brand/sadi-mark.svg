@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="sadi-mark-title sadi-mark-description">
+  <title id="sadi-mark-title">SADI compact mark</title>
+  <desc id="sadi-mark-description">A warm outlined S and small terracotta asterisk on a rounded ink tile.</desc>
+  <path fill="#252521" d="M15 0H49C57.284 0 64 6.716 64 15V49C64 57.284 57.284 64 49 64H15C6.716 64 0 57.284 0 49V15C0 6.716 6.716 0 15 0Z"/>
+  <path fill="#F8F8F6" transform="translate(6 8) scale(.7)" d="M47 17C41 11 34 8 25 8C11 8 3 15 3 26C3 36 10 41 23 44L29 45C35 47 38 49 38 53C38 57 34 60 27 60C19 60 12 56 7 51L0 60C7 67 16 71 27 71C42 71 51 64 51 52C51 42 44 37 31 34L25 33C18 31 15 29 15 25C15 21 19 19 25 19C31 19 37 22 41 26Z"/>
+  <path id="sadi-asterisk" fill="#C15F3C" d="M51 6L53.2 12.2L59.5 10.5L55.2 16L59.5 21.5L53.2 19.8L51 26L48.8 19.8L42.5 21.5L46.8 16L42.5 10.5L48.8 12.2Z"/>
+</svg>

@@ -1,0 +1,466 @@
+[
+  {
+    "file": "saedit-1-16x9.webp",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "ee440a682b0008af11e80e949ee232e569ab29361e8f1d48e4b2e2c68cc6f007",
+    "bytes": 105654,
+    "role": "product",
+    "sourceFiles": [
+      "scene01_angleA_frontal_window_desk.png"
+    ],
+    "sourceHashes": {
+      "scene01_angleA_frontal_window_desk.png": "63a33c017339f1480660d5e842603e7b115a931c495e0db38f74186830fbad21"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "saedit-1",
+    "aspect": "16:9",
+    "layoutId": "saedit-1-16:9-editorial-v1"
+  },
+  {
+    "file": "saedit-1-9x16.webp",
+    "width": 1080,
+    "height": 1920,
+    "sha256": "1dea3996846c21a2fd14fd6c6b303fc79808d478486491ee9eb105c14fc5f9ff",
+    "bytes": 134360,
+    "role": "product",
+    "sourceFiles": [
+      "scene02_angleA_frontal_acoustic_studio.png"
+    ],
+    "sourceHashes": {
+      "scene02_angleA_frontal_acoustic_studio.png": "d18b5b35c2d43976158bcd6bdd124a2050f7c80115970b60d11574aa1bbc935a"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "saedit-1",
+    "aspect": "9:16",
+    "layoutId": "saedit-1-9:16-editorial-v1"
+  },
+  {
+    "file": "saedit-1.webp",
+    "width": 1080,
+    "height": 1920,
+    "sha256": "1dea3996846c21a2fd14fd6c6b303fc79808d478486491ee9eb105c14fc5f9ff",
+    "bytes": 134360,
+    "role": "primary-alias",
+    "sourceFiles": [
+      "scene02_angleA_frontal_acoustic_studio.png"
+    ],
+    "sourceHashes": {
+      "scene02_angleA_frontal_acoustic_studio.png": "d18b5b35c2d43976158bcd6bdd124a2050f7c80115970b60d11574aa1bbc935a"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "saedit-1",
+    "aspect": "9:16",
+    "aliasOf": "saedit-1-9x16.webp"
+  },
+  {
+    "file": "saedit-2-16x9.webp",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "1f970382f9f02f6d901daa09429f5653e83a9b13d23ba7244f897b41b304672e",
+    "bytes": 149006,
+    "role": "product",
+    "sourceFiles": [
+      "scene03_angleA_frontal_monitor_workstation.png"
+    ],
+    "sourceHashes": {
+      "scene03_angleA_frontal_monitor_workstation.png": "eb32780dc8959dbf193cd608747ce3434cc344e459c1f2965095ea703bd7ca39"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "saedit-2",
+    "aspect": "16:9",
+    "layoutId": "saedit-2-16:9-editorial-v1"
+  },
+  {
+    "file": "saedit-2-9x16.webp",
+    "width": 1080,
+    "height": 1920,
+    "sha256": "d204cfe2120ce374b915936899a526868c4222d2bbc399f12c462e33ddf0c1cd",
+    "bytes": 148576,
+    "role": "product",
+    "sourceFiles": [
+      "scene04_angleA_frontal_bookshelf_office.png"
+    ],
+    "sourceHashes": {
+      "scene04_angleA_frontal_bookshelf_office.png": "f941677bae87985442bc795e3d5cd8e29a04dbbf4eda1f7a1413b74b52b9beb3"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "saedit-2",
+    "aspect": "9:16",
+    "layoutId": "saedit-2-9:16-editorial-v1"
+  },
+  {
+    "file": "saedit-2.webp",
+    "width": 1080,
+    "height": 1920,
+    "sha256": "d204cfe2120ce374b915936899a526868c4222d2bbc399f12c462e33ddf0c1cd",
+    "bytes": 148576,
+    "role": "primary-alias",
+    "sourceFiles": [
+      "scene04_angleA_frontal_bookshelf_office.png"
+    ],
+    "sourceHashes": {
+      "scene04_angleA_frontal_bookshelf_office.png": "f941677bae87985442bc795e3d5cd8e29a04dbbf4eda1f7a1413b74b52b9beb3"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "saedit-2",
+    "aspect": "9:16",
+    "aliasOf": "saedit-2-9x16.webp"
+  },
+  {
+    "file": "saedit-3-16x9.webp",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "5718049f4b461862a31981895b6ee7e2fbace77f6d26c925bd06efdfbc1ae1d5",
+    "bytes": 108968,
+    "role": "product",
+    "sourceFiles": [
+      "scene05_angleA_frontal_white_workshop.png"
+    ],
+    "sourceHashes": {
+      "scene05_angleA_frontal_white_workshop.png": "b8052cf02096aadb78573050762e0a6dc115f835da7937fad6580b033b39b6a9"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "saedit-3",
+    "aspect": "16:9",
+    "layoutId": "saedit-3-16:9-editorial-v1"
+  },
+  {
+    "file": "saedit-3-9x16.webp",
+    "width": 1080,
+    "height": 1920,
+    "sha256": "31a5fa5da3f3c4428d56638e6cc6249d40052b53b11741ed2469a05c73a09639",
+    "bytes": 164946,
+    "role": "product",
+    "sourceFiles": [
+      "scene06_angleA_frontal_leather_lounge.png"
+    ],
+    "sourceHashes": {
+      "scene06_angleA_frontal_leather_lounge.png": "3e9c3cf6db913edc82427f49e960431aec5e649a240ace2f9538a42b2ccfbedf"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "saedit-3",
+    "aspect": "9:16",
+    "layoutId": "saedit-3-9:16-editorial-v1"
+  },
+  {
+    "file": "saedit-3.webp",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "5718049f4b461862a31981895b6ee7e2fbace77f6d26c925bd06efdfbc1ae1d5",
+    "bytes": 108968,
+    "role": "primary-alias",
+    "sourceFiles": [
+      "scene05_angleA_frontal_white_workshop.png"
+    ],
+    "sourceHashes": {
+      "scene05_angleA_frontal_white_workshop.png": "b8052cf02096aadb78573050762e0a6dc115f835da7937fad6580b033b39b6a9"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "saedit-3",
+    "aspect": "16:9",
+    "aliasOf": "saedit-3-16x9.webp"
+  },
+  {
+    "file": "samotion-1-16x9.webp",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "9aa2fe13bc7619d91842889d38b16d96846eba52952420c5eccdfae428efea90",
+    "bytes": 143554,
+    "role": "product",
+    "sourceFiles": [
+      "scene01_angleA_frontal_glass_wall.png"
+    ],
+    "sourceHashes": {
+      "scene01_angleA_frontal_glass_wall.png": "ad84eff8bb36a5c459b7198c21195bdbcc08a6279aa3f7fd487f285b6882e3d7"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "samotion-1",
+    "aspect": "16:9",
+    "layoutId": "samotion-1-16:9-editorial-v1"
+  },
+  {
+    "file": "samotion-1-9x16.webp",
+    "width": 1080,
+    "height": 1920,
+    "sha256": "6511c5ef68bc73377c1cd3725a86324710ed12677d1b320b3039982d55e76dfe",
+    "bytes": 120098,
+    "role": "product",
+    "sourceFiles": [
+      "scene02_angleA_frontal_recording_booth.png"
+    ],
+    "sourceHashes": {
+      "scene02_angleA_frontal_recording_booth.png": "6814acce43d1cd677f0246bda9c7ccf700786f05a0ca2570bb34ca5cf202bfba"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "samotion-1",
+    "aspect": "9:16",
+    "layoutId": "samotion-1-9:16-editorial-v1"
+  },
+  {
+    "file": "samotion-1.webp",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "9aa2fe13bc7619d91842889d38b16d96846eba52952420c5eccdfae428efea90",
+    "bytes": 143554,
+    "role": "primary-alias",
+    "sourceFiles": [
+      "scene01_angleA_frontal_glass_wall.png"
+    ],
+    "sourceHashes": {
+      "scene01_angleA_frontal_glass_wall.png": "ad84eff8bb36a5c459b7198c21195bdbcc08a6279aa3f7fd487f285b6882e3d7"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "samotion-1",
+    "aspect": "16:9",
+    "aliasOf": "samotion-1-16x9.webp"
+  },
+  {
+    "file": "samotion-2-16x9.webp",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "07e43b468540a9119d314a9fd2610c2f209616534c1c6a0a39a0d9506e55e5a6",
+    "bytes": 119730,
+    "role": "product",
+    "sourceFiles": [
+      "scene03_angleA_frontal_kitchen_coffee_bar.png"
+    ],
+    "sourceHashes": {
+      "scene03_angleA_frontal_kitchen_coffee_bar.png": "0227205c53b65f2b0d60d0a001e9f5d39c7e2cc65f385183fd165b7e4770a092"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "samotion-2",
+    "aspect": "16:9",
+    "layoutId": "samotion-2-16:9-editorial-v1"
+  },
+  {
+    "file": "samotion-2-9x16.webp",
+    "width": 1080,
+    "height": 1920,
+    "sha256": "999b4228df95b078681507c75c357b807b5246eac35c6b000e2a35d7de3186a0",
+    "bytes": 133220,
+    "role": "product",
+    "sourceFiles": [
+      "scene04_angleA_frontal_glass_boardroom.png"
+    ],
+    "sourceHashes": {
+      "scene04_angleA_frontal_glass_boardroom.png": "98b60697ab27f339f3d3f99a12495729945d2573f49ec5e53754832e55b61955"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "samotion-2",
+    "aspect": "9:16",
+    "layoutId": "samotion-2-9:16-editorial-v1"
+  },
+  {
+    "file": "samotion-2.webp",
+    "width": 1080,
+    "height": 1920,
+    "sha256": "999b4228df95b078681507c75c357b807b5246eac35c6b000e2a35d7de3186a0",
+    "bytes": 133220,
+    "role": "primary-alias",
+    "sourceFiles": [
+      "scene04_angleA_frontal_glass_boardroom.png"
+    ],
+    "sourceHashes": {
+      "scene04_angleA_frontal_glass_boardroom.png": "98b60697ab27f339f3d3f99a12495729945d2573f49ec5e53754832e55b61955"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "samotion-2",
+    "aspect": "9:16",
+    "aliasOf": "samotion-2-9x16.webp"
+  },
+  {
+    "file": "sadi-telemetry-kit-16x9.webp",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "6da277670e7ad4823fc5568f6e4390d1df39e2a966ab49f773162a01622392e9",
+    "bytes": 120856,
+    "role": "product",
+    "sourceFiles": [
+      "scene05_angleA_frontal_concrete_loft.png"
+    ],
+    "sourceHashes": {
+      "scene05_angleA_frontal_concrete_loft.png": "ea44e32c128380cea15b1d0dca64fe4f618da2f86b8d362b4408e104e20b8551"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "sadi-telemetry-kit",
+    "aspect": "16:9",
+    "layoutId": "sadi-telemetry-kit-16:9-editorial-v1"
+  },
+  {
+    "file": "sadi-telemetry-kit-9x16.webp",
+    "width": 1080,
+    "height": 1920,
+    "sha256": "5e049dd92490b2c7f942cf5b6b4567025a257b77dd7690b4821901d76ddea23e",
+    "bytes": 132328,
+    "role": "product",
+    "sourceFiles": [
+      "scene06_angleA_frontal_night_tech_desk.png"
+    ],
+    "sourceHashes": {
+      "scene06_angleA_frontal_night_tech_desk.png": "83e9e200d983ed8a32d400182f83755bfdebd6e1b0480629dfd1d36014e69b8d"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "sadi-telemetry-kit",
+    "aspect": "9:16",
+    "layoutId": "sadi-telemetry-kit-9:16-editorial-v1"
+  },
+  {
+    "file": "sadi-telemetry-kit.webp",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "6da277670e7ad4823fc5568f6e4390d1df39e2a966ab49f773162a01622392e9",
+    "bytes": 120856,
+    "role": "primary-alias",
+    "sourceFiles": [
+      "scene05_angleA_frontal_concrete_loft.png"
+    ],
+    "sourceHashes": {
+      "scene05_angleA_frontal_concrete_loft.png": "ea44e32c128380cea15b1d0dca64fe4f618da2f86b8d362b4408e104e20b8551"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "sadi-telemetry-kit",
+    "aspect": "16:9",
+    "aliasOf": "sadi-telemetry-kit-16x9.webp"
+  },
+  {
+    "file": "saedit-16x9.webp",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "da389a29c045285bcf898ca3afab27ab443d110d75277e5c1b157b6beb3b5e07",
+    "bytes": 184460,
+    "role": "product",
+    "sourceFiles": [
+      "scene01_angleA_frontal_balcony.png"
+    ],
+    "sourceHashes": {
+      "scene01_angleA_frontal_balcony.png": "919d3b711f4b6bc984343cef307f08c8fd426e411a3333b84859113a57471481"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "saedit",
+    "aspect": "16:9",
+    "layoutId": "saedit-16:9-editorial-v1"
+  },
+  {
+    "file": "saedit-9x16.webp",
+    "width": 1080,
+    "height": 1920,
+    "sha256": "a840aee05271fe10a36d97785f884578f4dda394840f0453149e4c76277a5110",
+    "bytes": 178288,
+    "role": "product",
+    "sourceFiles": [
+      "scene02_angleA_frontal_coffee_shop.png"
+    ],
+    "sourceHashes": {
+      "scene02_angleA_frontal_coffee_shop.png": "056870e76d033043e49baaf84ecfd2880505c741e3f041f82827843e42329765"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "saedit",
+    "aspect": "9:16",
+    "layoutId": "saedit-9:16-editorial-v1"
+  },
+  {
+    "file": "saedit.webp",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "da389a29c045285bcf898ca3afab27ab443d110d75277e5c1b157b6beb3b5e07",
+    "bytes": 184460,
+    "role": "primary-alias",
+    "sourceFiles": [
+      "scene01_angleA_frontal_balcony.png"
+    ],
+    "sourceHashes": {
+      "scene01_angleA_frontal_balcony.png": "919d3b711f4b6bc984343cef307f08c8fd426e411a3333b84859113a57471481"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "saedit",
+    "aspect": "16:9",
+    "aliasOf": "saedit-16x9.webp"
+  },
+  {
+    "file": "sadi-creator-pro-16x9.webp",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "9833c176bf84fe7e401dfc2dd4de248cf9cb046c1567146d89678bc1383bf313",
+    "bytes": 190970,
+    "role": "product",
+    "sourceFiles": [
+      "scene03_angleA_frontal_street_neon.png"
+    ],
+    "sourceHashes": {
+      "scene03_angleA_frontal_street_neon.png": "92ba0c7fc4c89105828e9012f37129175cc726d78b2cdbac71d8eaf92dcc2cc6"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "sadi-creator-pro",
+    "aspect": "16:9",
+    "layoutId": "sadi-creator-pro-16:9-editorial-v1"
+  },
+  {
+    "file": "sadi-creator-pro-9x16.webp",
+    "width": 1080,
+    "height": 1920,
+    "sha256": "1d2ad9413ce8e47ec34b98c488b203127f2a0dafa638ed99afa9bc8e91569f8f",
+    "bytes": 125656,
+    "role": "product",
+    "sourceFiles": [
+      "scene04_angleA_frontal_studio_white.png"
+    ],
+    "sourceHashes": {
+      "scene04_angleA_frontal_studio_white.png": "4361187513816b26acebb887941f5525ebfcb53cc5920fe8a0f0825b845454f5"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "sadi-creator-pro",
+    "aspect": "9:16",
+    "layoutId": "sadi-creator-pro-9:16-editorial-v1"
+  },
+  {
+    "file": "sadi-creator-pro.webp",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "9833c176bf84fe7e401dfc2dd4de248cf9cb046c1567146d89678bc1383bf313",
+    "bytes": 190970,
+    "role": "primary-alias",
+    "sourceFiles": [
+      "scene03_angleA_frontal_street_neon.png"
+    ],
+    "sourceHashes": {
+      "scene03_angleA_frontal_street_neon.png": "92ba0c7fc4c89105828e9012f37129175cc726d78b2cdbac71d8eaf92dcc2cc6"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results",
+    "slug": "sadi-creator-pro",
+    "aspect": "16:9",
+    "aliasOf": "sadi-creator-pro-16x9.webp"
+  },
+  {
+    "file": "vinh-phuc-creator.webp",
+    "width": 1024,
+    "height": 1024,
+    "sha256": "c1c82f752c87ad8abd5c0bc25797ced158d2541831aa4d6d9ffe45bc02a8d253",
+    "bytes": 121488,
+    "role": "creator",
+    "sourceFiles": [
+      "2406.webp"
+    ],
+    "sourceHashes": {
+      "2406.webp": "e485374a9976533d0c1bd91fd57585d69134b53b0ae9d7b58e4ee04f4ee65539"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results"
+  },
+  {
+    "file": "newsletter-illustration.webp",
+    "width": 1600,
+    "height": 1000,
+    "sha256": "4bfe22c19e34863cfb0142db162db275829b1bf5d1e5103397ac7cdbe557191c",
+    "bytes": 77664,
+    "role": "newsletter",
+    "sourceFiles": [
+      "scene01_angleA_frontal_window_desk.png",
+      "newsletter-editorial.png"
+    ],
+    "sourceHashes": {
+      "scene01_angleA_frontal_window_desk.png": "63a33c017339f1480660d5e842603e7b115a931c495e0db38f74186830fbad21",
+      "newsletter-editorial.png": "eaaad6bd996b0473ab2a1f9127cdd6452612ca66df3853e185628e235c9d689d"
+    },
+    "treatment": "Owner-supplied genuine photographic avatar, identity pixels retained; independent Pillow layout; no invented performance results"
+  }
+]

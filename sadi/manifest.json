@@ -1,0 +1,166 @@
+{
+  "schema": "sadi-cdn-v1",
+  "generatedAt": "2026-10-21T07:52:59.827Z",
+  "files": [
+    {
+      "file": "brand/README.md",
+      "bytes": 3815,
+      "sha256": "5acaafbaa9e5a6f4f6601b88f2afa510fcd31395181fb7786f9ae3fae4a94f22"
+    },
+    {
+      "file": "brand/sadi-favicon.svg",
+      "bytes": 760,
+      "sha256": "b05bfe1a1ef695a4fe1cc1c856d5142899cda0262f5c3f58cd3b406bb4b6bcbc"
+    },
+    {
+      "file": "brand/sadi-mark.svg",
+      "bytes": 902,
+      "sha256": "57e8208f1f8012aed0f9776dd18b74f0bd0be34d2d42274aa1da434833324280"
+    },
+    {
+      "file": "brand/sadi-wordmark-dark.svg",
+      "bytes": 963,
+      "sha256": "bb97bfc130743043126c4681998e890a5cb420bc24d7e0b2091389e0a4eeab3a"
+    },
+    {
+      "file": "brand/sadi-wordmark-light.svg",
+      "bytes": 956,
+      "sha256": "89d9e440ca3094e92f43eebfe25eb1d0243f17e7c2f274a5f1bbaba27d9152b2"
+    },
+    {
+      "file": "thumbnails/manifest.json",
+      "bytes": 17941,
+      "sha256": "573e08994e7c10e1bd6916d66232a37875f72f9f8b4aef5e9cc8c13e0c97c863"
+    },
+    {
+      "file": "thumbnails/newsletter-illustration.webp",
+      "bytes": 77664,
+      "sha256": "4bfe22c19e34863cfb0142db162db275829b1bf5d1e5103397ac7cdbe557191c"
+    },
+    {
+      "file": "thumbnails/sadi-creator-pro-16x9.webp",
+      "bytes": 190970,
+      "sha256": "9833c176bf84fe7e401dfc2dd4de248cf9cb046c1567146d89678bc1383bf313"
+    },
+    {
+      "file": "thumbnails/sadi-creator-pro-9x16.webp",
+      "bytes": 125656,
+      "sha256": "1d2ad9413ce8e47ec34b98c488b203127f2a0dafa638ed99afa9bc8e91569f8f"
+    },
+    {
+      "file": "thumbnails/sadi-creator-pro.webp",
+      "bytes": 190970,
+      "sha256": "9833c176bf84fe7e401dfc2dd4de248cf9cb046c1567146d89678bc1383bf313"
+    },
+    {
+      "file": "thumbnails/sadi-telemetry-kit-16x9.webp",
+      "bytes": 120856,
+      "sha256": "6da277670e7ad4823fc5568f6e4390d1df39e2a966ab49f773162a01622392e9"
+    },
+    {
+      "file": "thumbnails/sadi-telemetry-kit-9x16.webp",
+      "bytes": 132328,
+      "sha256": "5e049dd92490b2c7f942cf5b6b4567025a257b77dd7690b4821901d76ddea23e"
+    },
+    {
+      "file": "thumbnails/sadi-telemetry-kit.webp",
+      "bytes": 120856,
+      "sha256": "6da277670e7ad4823fc5568f6e4390d1df39e2a966ab49f773162a01622392e9"
+    },
+    {
+      "file": "thumbnails/saedit-1-16x9.webp",
+      "bytes": 105654,
+      "sha256": "ee440a682b0008af11e80e949ee232e569ab29361e8f1d48e4b2e2c68cc6f007"
+    },
+    {
+      "file": "thumbnails/saedit-1-9x16.webp",
+      "bytes": 134360,
+      "sha256": "1dea3996846c21a2fd14fd6c6b303fc79808d478486491ee9eb105c14fc5f9ff"
+    },
+    {
+      "file": "thumbnails/saedit-1.webp",
+      "bytes": 134360,
+      "sha256": "1dea3996846c21a2fd14fd6c6b303fc79808d478486491ee9eb105c14fc5f9ff"
+    },
+    {
+      "file": "thumbnails/saedit-16x9.webp",
+      "bytes": 184460,
+      "sha256": "da389a29c045285bcf898ca3afab27ab443d110d75277e5c1b157b6beb3b5e07"
+    },
+    {
+      "file": "thumbnails/saedit-2-16x9.webp",
+      "bytes": 149006,
+      "sha256": "1f970382f9f02f6d901daa09429f5653e83a9b13d23ba7244f897b41b304672e"
+    },
+    {
+      "file": "thumbnails/saedit-2-9x16.webp",
+      "bytes": 148576,
+      "sha256": "d204cfe2120ce374b915936899a526868c4222d2bbc399f12c462e33ddf0c1cd"
+    },
+    {
+      "file": "thumbnails/saedit-2.webp",
+      "bytes": 148576,
+      "sha256": "d204cfe2120ce374b915936899a526868c4222d2bbc399f12c462e33ddf0c1cd"
+    },
+    {
+      "file": "thumbnails/saedit-3-16x9.webp",
+      "bytes": 108968,
+      "sha256": "5718049f4b461862a31981895b6ee7e2fbace77f6d26c925bd06efdfbc1ae1d5"
+    },
+    {
+      "file": "thumbnails/saedit-3-9x16.webp",
+      "bytes": 164946,
+      "sha256": "31a5fa5da3f3c4428d56638e6cc6249d40052b53b11741ed2469a05c73a09639"
+    },
+    {
+      "file": "thumbnails/saedit-3.webp",
+      "bytes": 108968,
+      "sha256": "5718049f4b461862a31981895b6ee7e2fbace77f6d26c925bd06efdfbc1ae1d5"
+    },
+    {
+      "file": "thumbnails/saedit-9x16.webp",
+      "bytes": 178288,
+      "sha256": "a840aee05271fe10a36d97785f884578f4dda394840f0453149e4c76277a5110"
+    },
+    {
+      "file": "thumbnails/saedit.webp",
+      "bytes": 184460,
+      "sha256": "da389a29c045285bcf898ca3afab27ab443d110d75277e5c1b157b6beb3b5e07"
+    },
+    {
+      "file": "thumbnails/samotion-1-16x9.webp",
+      "bytes": 143554,
+      "sha256": "9aa2fe13bc7619d91842889d38b16d96846eba52952420c5eccdfae428efea90"
+    },
+    {
+      "file": "thumbnails/samotion-1-9x16.webp",
+      "bytes": 120098,
+      "sha256": "6511c5ef68bc73377c1cd3725a86324710ed12677d1b320b3039982d55e76dfe"
+    },
+    {
+      "file": "thumbnails/samotion-1.webp",
+      "bytes": 143554,
+      "sha256": "9aa2fe13bc7619d91842889d38b16d96846eba52952420c5eccdfae428efea90"
+    },
+    {
+      "file": "thumbnails/samotion-2-16x9.webp",
+      "bytes": 119730,
+      "sha256": "07e43b468540a9119d314a9fd2610c2f209616534c1c6a0a39a0d9506e55e5a6"
+    },
+    {
+      "file": "thumbnails/samotion-2-9x16.webp",
+      "bytes": 133220,
+      "sha256": "999b4228df95b078681507c75c357b807b5246eac35c6b000e2a35d7de3186a0"
+    },
+    {
+      "file": "thumbnails/samotion-2.webp",
+      "bytes": 133220,
+      "sha256": "999b4228df95b078681507c75c357b807b5246eac35c6b000e2a35d7de3186a0"
+    },
+    {
+      "file": "thumbnails/vinh-phuc-creator.webp",
+      "bytes": 121488,
+      "sha256": "c1c82f752c87ad8abd5c0bc25797ced158d2541831aa4d6d9ffe45bc02a8d253"
+    }
+  ]
+}\n
