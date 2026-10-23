@@ -16,7 +16,11 @@
       "videoPath": "sadi/videos/saedit-launch.mp4",
       "posterPath": "sadi/videos/posters/saedit-launch.webp",
       "sourceType": "user-supplied-local",
-      "provenance": "User-supplied marketing video; byte-preserved before CDN upload"
+      "provenance": "User-supplied marketing video; byte-preserved before CDN upload",
+      "previewPath": "sadi/videos/previews/saedit-launch.mp4",
+      "previewBytes": 3521234,
+      "previewSha256": "468c1f283934546655bb0dbe5f9c7ee76f2e1bc4f531de6d5b8703a86e3b9594",
+      "previewProvenance": "Deterministic web preview derived from byte-preserved user-supplied source; original remains in the same GitHub commit."
     },
     {
       "id": "saedit-1-demo",
@@ -32,7 +36,11 @@
       "videoPath": "sadi/videos/saedit-1-demo.mp4",
       "posterPath": "sadi/videos/posters/saedit-1-demo.webp",
       "sourceType": "user-supplied-local",
-      "provenance": "User-supplied marketing video; byte-preserved before CDN upload"
+      "provenance": "User-supplied marketing video; byte-preserved before CDN upload",
+      "previewPath": "sadi/videos/previews/saedit-1-demo.mp4",
+      "previewBytes": 5239796,
+      "previewSha256": "7dfb86c3d056f2519274ee754221b966afaea5f0d24d63d5a155e3358c7bf77d",
+      "previewProvenance": "Deterministic web preview derived from byte-preserved user-supplied source; original remains in the same GitHub commit."
     },
     {
       "id": "saedit-1-alt",
@@ -48,7 +56,11 @@
       "videoPath": "sadi/videos/saedit-1-alt.mp4",
       "posterPath": "sadi/videos/posters/saedit-1-alt.webp",
       "sourceType": "user-supplied-local",
-      "provenance": "User-supplied marketing video; byte-preserved before CDN upload"
+      "provenance": "User-supplied marketing video; byte-preserved before CDN upload",
+      "previewPath": "sadi/videos/previews/saedit-1-alt.mp4",
+      "previewBytes": 4314013,
+      "previewSha256": "cf4d458252f6f9b57ec4b379d7dfc12a59a2ae479dbcde8ac46e237a0d60d048",
+      "previewProvenance": "Deterministic web preview derived from byte-preserved user-supplied source; original remains in the same GitHub commit."
     },
     {
       "id": "saedit-2-demo",
@@ -64,7 +76,11 @@
       "videoPath": "sadi/videos/saedit-2-demo.mp4",
       "posterPath": "sadi/videos/posters/saedit-2-demo.webp",
       "sourceType": "user-supplied-local",
-      "provenance": "User-supplied marketing video; byte-preserved before CDN upload"
+      "provenance": "User-supplied marketing video; byte-preserved before CDN upload",
+      "previewPath": "sadi/videos/previews/saedit-2-demo.mp4",
+      "previewBytes": 2556062,
+      "previewSha256": "c53d36d7a575ed9e9e102c60e256933d831b0f60ffe3da0ff7122129b4419654",
+      "previewProvenance": "Deterministic web preview derived from byte-preserved user-supplied source; original remains in the same GitHub commit."
     },
     {
       "id": "saedit-2-alt",
@@ -80,7 +96,11 @@
       "videoPath": "sadi/videos/saedit-2-alt.mp4",
       "posterPath": "sadi/videos/posters/saedit-2-alt.webp",
       "sourceType": "user-supplied-local",
-      "provenance": "User-supplied marketing video; byte-preserved before CDN upload"
+      "provenance": "User-supplied marketing video; byte-preserved before CDN upload",
+      "previewPath": "sadi/videos/previews/saedit-2-alt.mp4",
+      "previewBytes": 4751702,
+      "previewSha256": "6e179d3d76b7fb318a145a2081a5435670ee4d92250eec43e51843e323ff0cb9",
+      "previewProvenance": "Deterministic web preview derived from byte-preserved user-supplied source; original remains in the same GitHub commit."
     },
     {
       "id": "saedit-3-demo",
@@ -96,7 +116,11 @@
       "videoPath": "sadi/videos/saedit-3-demo.mp4",
       "posterPath": "sadi/videos/posters/saedit-3-demo.webp",
       "sourceType": "user-supplied-local",
-      "provenance": "User-supplied marketing video; byte-preserved before CDN upload"
+      "provenance": "User-supplied marketing video; byte-preserved before CDN upload",
+      "previewPath": "sadi/videos/previews/saedit-3-demo.mp4",
+      "previewBytes": 4600043,
+      "previewSha256": "27065aa8051f62f66f01f4ea57341032d9f9e637c1e00189c43400d625c6b5a1",
+      "previewProvenance": "Deterministic web preview derived from byte-preserved user-supplied source; original remains in the same GitHub commit."
     },
     {
       "id": "samotion-1-launch",
@@ -112,7 +136,11 @@
       "videoPath": "sadi/videos/samotion-1-launch.mp4",
       "posterPath": "sadi/videos/posters/samotion-1-launch.webp",
       "sourceType": "user-supplied-local",
-      "provenance": "User-supplied marketing video; byte-preserved before CDN upload"
+      "provenance": "User-supplied marketing video; byte-preserved before CDN upload",
+      "previewPath": "sadi/videos/previews/samotion-1-launch.mp4",
+      "previewBytes": 2550437,
+      "previewSha256": "13a617ccfdf01625d89ffa77fc74895f2b2254824867ad22a7fb325626e5b9e1",
+      "previewProvenance": "Deterministic web preview derived from byte-preserved user-supplied source; original remains in the same GitHub commit."
     }
   ]
 }
