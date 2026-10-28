@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 248 80" role="img" aria-labelledby="sadi-title sadi-description">
+  <title id="sadi-title">SADI</title>
+  <desc id="sadi-description">Study AI Digital Product. Single-ink custom outlined wordmark.</desc>
+  <g fill="#252521" fill-rule="evenodd">
+    <path d="M47 17C41 11 34 8 25 8C11 8 3 15 3 26C3 36 10 41 23 44L29 45C35 47 38 49 38 53C38 57 34 60 27 60C19 60 12 56 7 51L0 60C7 67 16 71 27 71C42 71 51 64 51 52C51 42 44 37 31 34L25 33C18 31 15 29 15 25C15 21 19 19 25 19C31 19 37 22 41 26Z"/>
+    <path d="M57 70L81 10H94L118 70H104L100 59H75L71 70ZM79 48H96L87.5 25Z"/>
+    <path d="M127 10H148C170 10 183 21 183 40C183 59 170 70 148 70H127ZM140 22V58H147C162 58 170 51 170 40C170 29 162 22 147 22Z"/>
+    <path d="M195 10H208V70H195Z"/>
+  </g>
+  <path id="sadi-asterisk" fill="#252521" d="M232 4L235 12L243 10L237 17L243 24L235 22L232 30L229 22L221 24L227 17L221 10L229 12Z"/>
+</svg>

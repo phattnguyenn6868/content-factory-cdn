@@ -1,0 +1,432 @@
+{
+  "version": 1,
+  "repository": "phattnguyenn6868/content-factory-cdn",
+  "prefix": "sadi/site-20261029",
+  "files": {
+    "/sadi-brand/alex-ng-profile.png": {
+      "path": "sadi-brand/alex-ng-profile.png",
+      "sha256": "338c6c7403e9c40a7a58073f16f2084dd7e16b94884f4ba7865fc8d5ecf2b5cd",
+      "bytes": 2390823
+    },
+    "/sadi-brand/sadi-favicon.svg": {
+      "path": "sadi-brand/sadi-favicon.svg",
+      "sha256": "b05bfe1a1ef695a4fe1cc1c856d5142899cda0262f5c3f58cd3b406bb4b6bcbc",
+      "bytes": 760
+    },
+    "/sadi-brand/sadi-mark.svg": {
+      "path": "sadi-brand/sadi-mark.svg",
+      "sha256": "57e8208f1f8012aed0f9776dd18b74f0bd0be34d2d42274aa1da434833324280",
+      "bytes": 902
+    },
+    "/sadi-brand/sadi-notionly-mark.svg": {
+      "path": "sadi-brand/sadi-notionly-mark.svg",
+      "sha256": "f03e5b6b93d0b625f53b78a8d65f1cd21acdd7e1c72c2b0f7d3dfc8567a60486",
+      "bytes": 260
+    },
+    "/sadi-brand/sadi-notionly.svg": {
+      "path": "sadi-brand/sadi-notionly.svg",
+      "sha256": "2b8841e94a31f02893f0ed924b4c4d3046fbc4191e85000e391123f767414c90",
+      "bytes": 428
+    },
+    "/sadi-brand/sadi-wordmark-clean.svg": {
+      "path": "sadi-brand/sadi-wordmark-clean.svg",
+      "sha256": "87bd568a3418172304f58bfb621ba8a246cf40454528283a873ad2fd19241004",
+      "bytes": 729
+    },
+    "/sadi-brand/sadi-wordmark-dark.svg": {
+      "path": "sadi-brand/sadi-wordmark-dark.svg",
+      "sha256": "bb97bfc130743043126c4681998e890a5cb420bc24d7e0b2091389e0a4eeab3a",
+      "bytes": 963
+    },
+    "/sadi-brand/sadi-wordmark-light.svg": {
+      "path": "sadi-brand/sadi-wordmark-light.svg",
+      "sha256": "89d9e440ca3094e92f43eebfe25eb1d0243f17e7c2f274a5f1bbaba27d9152b2",
+      "bytes": 956
+    },
+    "/sadi-brand/sadi-wordmark-mono.svg": {
+      "path": "sadi-brand/sadi-wordmark-mono.svg",
+      "sha256": "23a50499a495057d58a8d026683735e5db3e69fe2a5892248c77f5e9e567b616",
+      "bytes": 940
+    },
+    "/sadi-fonts/1be3448e292fbf05ffe176fe.woff2": {
+      "path": "sadi-fonts/1be3448e292fbf05ffe176fe.woff2",
+      "sha256": "1be3448e292fbf05ffe176fe1e43f135013d50b1e7d324ad1a558f623d3bb6f6",
+      "bytes": 18996
+    },
+    "/sadi-fonts/3100e775e8616cd2611beecf.woff2": {
+      "path": "sadi-fonts/3100e775e8616cd2611beecf.woff2",
+      "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
+      "bytes": 48256
+    },
+    "/sadi-fonts/33ae5254fa09938c5abef5f1.woff2": {
+      "path": "sadi-fonts/33ae5254fa09938c5abef5f1.woff2",
+      "sha256": "33ae5254fa09938c5abef5f1acaf848c0303aa21e3eb5632edb7d434deb3f572",
+      "bytes": 8608
+    },
+    "/sadi-fonts/34b9c504cab7a73e37b74634.woff2": {
+      "path": "sadi-fonts/34b9c504cab7a73e37b74634.woff2",
+      "sha256": "34b9c504cab7a73e37b746343a449132e56cf7b5481af2cb81dc74dcff25c956",
+      "bytes": 85068
+    },
+    "/sadi-fonts/5c66f9e07e90c6d4ac4922cc.woff2": {
+      "path": "sadi-fonts/5c66f9e07e90c6d4ac4922cc.woff2",
+      "sha256": "5c66f9e07e90c6d4ac4922cc68d60de26c17b1858e677fb5e603fce3952b3ff2",
+      "bytes": 10252
+    },
+    "/sadi-fonts/6e9e020a25f9b56d418f2c08.woff2": {
+      "path": "sadi-fonts/6e9e020a25f9b56d418f2c08.woff2",
+      "sha256": "6e9e020a25f9b56d418f2c085b1d3c09725a4da23fe693a5b463064606732190",
+      "bytes": 11232
+    },
+    "/sadi-fonts/71d5ee93cc1e9f1d520a3a8b.woff2": {
+      "path": "sadi-fonts/71d5ee93cc1e9f1d520a3a8b.woff2",
+      "sha256": "71d5ee93cc1e9f1d520a3a8b66456de18c7879d8df09d57fcd2eaff75fef0075",
+      "bytes": 18748
+    },
+    "/sadi-fonts/a97804dc9fbe5fc972a08018.woff2": {
+      "path": "sadi-fonts/a97804dc9fbe5fc972a08018.woff2",
+      "sha256": "a97804dc9fbe5fc972a08018c5eda4dab7ef2346f64c57e61419d05e6de4ea1c",
+      "bytes": 41344
+    },
+    "/sadi-fonts/bricolage-latin-vietnamese-variable.woff2": {
+      "path": "sadi-fonts/bricolage-latin-vietnamese-variable.woff2",
+      "sha256": "e04f0825a3175a34a2d49bdb7acbd6c71412d47f4928f2a5e12526edd9fb6415",
+      "bytes": 193284
+    },
+    "/sadi-fonts/BricolageGrotesque-OFL.txt": {
+      "path": "sadi-fonts/BricolageGrotesque-OFL.txt",
+      "sha256": "4b5a7d8f37f5602621c8a8d7358a6a2e71317e6c231c661e15aef0275d3e07ba",
+      "bytes": 4403
+    },
+    "/sadi-fonts/ca157063339ac4ad418f214f.woff2": {
+      "path": "sadi-fonts/ca157063339ac4ad418f214f.woff2",
+      "sha256": "ca157063339ac4ad418f214f3abfed119b0798ab4d377386ce5c9e5a7a435ebd",
+      "bytes": 25960
+    },
+    "/sadi-fonts/e808f16b56f84dc7933e498c.woff2": {
+      "path": "sadi-fonts/e808f16b56f84dc7933e498c.woff2",
+      "sha256": "e808f16b56f84dc7933e498cc8a41d4a5cd853adc6eef154584baa5de1008b15",
+      "bytes": 18668
+    },
+    "/sadi-fonts/fonts.css": {
+      "path": "sadi-fonts/fonts.css",
+      "sha256": "7d5a6872b0cc38c5ea1ce5255d831e7685123f4d5fcd10d4620ed8d05e13822a",
+      "bytes": 639
+    },
+    "/sadi-fonts/inter-latin-vietnamese-variable.woff2": {
+      "path": "sadi-fonts/inter-latin-vietnamese-variable.woff2",
+      "sha256": "505dc529b55cedefb514e6ac170326cee40dd6e2083efb8a3d34acc5f20a9fa2",
+      "bytes": 195760
+    },
+    "/sadi-fonts/Inter-OFL.txt": {
+      "path": "sadi-fonts/Inter-OFL.txt",
+      "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57",
+      "bytes": 4377
+    },
+    "/sadi-media/owner-20261028/motion1-foster.mp4": {
+      "path": "sadi-media/owner-20261028/motion1-foster.mp4",
+      "sha256": "33f0457837d9fd2c562df9838a2868e38bfccc3ad143b247ebfec172fd43ac25",
+      "bytes": 1411677
+    },
+    "/sadi-media/owner-20261028/motion1-foster.webp": {
+      "path": "sadi-media/owner-20261028/motion1-foster.webp",
+      "sha256": "40908c30123c2acf6f6048f25ef4aa517244f5ecd455c617cdb27ce3b862f4f4",
+      "bytes": 10874
+    },
+    "/sadi-media/owner-20261028/motion2-flowz.mp4": {
+      "path": "sadi-media/owner-20261028/motion2-flowz.mp4",
+      "sha256": "47f5b070669b8c6987cce8d4690a1fa861e2a62934d5bd5b0d73d3f062ef4dd8",
+      "bytes": 1783645
+    },
+    "/sadi-media/owner-20261028/motion2-flowz.webp": {
+      "path": "sadi-media/owner-20261028/motion2-flowz.webp",
+      "sha256": "4c17dbfbefa906bcbe466898f6659cec6c9be6433c3205e999317421d20aca1b",
+      "bytes": 7034
+    },
+    "/sadi-media/owner-20261028/motion4-masterpiece.mp4": {
+      "path": "sadi-media/owner-20261028/motion4-masterpiece.mp4",
+      "sha256": "dd6419c2774e7dfdec4bef2748b869631b08f1af687a27e577049d5473cf1b41",
+      "bytes": 3615960
+    },
+    "/sadi-media/owner-20261028/motion4-masterpiece.webp": {
+      "path": "sadi-media/owner-20261028/motion4-masterpiece.webp",
+      "sha256": "88e8b226798f618174023f41e13ba9a936883739f2a3890c12387002f4759e22",
+      "bytes": 103102
+    },
+    "/sadi-media/owner-20261028/motion4-omniroute.mp4": {
+      "path": "sadi-media/owner-20261028/motion4-omniroute.mp4",
+      "sha256": "e362dc2b29812efbd8e79f9a21ddda998e28cef5203a4592391a0cde3ada5982",
+      "bytes": 1596577
+    },
+    "/sadi-media/owner-20261028/motion4-omniroute.webp": {
+      "path": "sadi-media/owner-20261028/motion4-omniroute.webp",
+      "sha256": "1eba97b4c0f68254548d046b09f8c1dde291903a77ee2aaef6c208b1a5652752",
+      "bytes": 19078
+    },
+    "/sadi-media/owner-20261028/saedit1-audiobay.mp4": {
+      "path": "sadi-media/owner-20261028/saedit1-audiobay.mp4",
+      "sha256": "828c156e2c47a215014df645f99f50d2395b4daebe239a069c6d8aea162bc497",
+      "bytes": 2287317
+    },
+    "/sadi-media/owner-20261028/saedit1-audiobay.webp": {
+      "path": "sadi-media/owner-20261028/saedit1-audiobay.webp",
+      "sha256": "930d2f9cea6784306f56ae8672e7e712a28505fbbc044950f8f1b802261b7dfb",
+      "bytes": 47278
+    },
+    "/sadi-media/owner-20261028/saedit1-keynote.mp4": {
+      "path": "sadi-media/owner-20261028/saedit1-keynote.mp4",
+      "sha256": "032df47e7ac0202f41481ef36a5db26469618daa4da3fa98af496bb3778dfa5a",
+      "bytes": 2813363
+    },
+    "/sadi-media/owner-20261028/saedit1-keynote.webp": {
+      "path": "sadi-media/owner-20261028/saedit1-keynote.webp",
+      "sha256": "50c6cd2c5920e2c655bf0628ef807d15f663f5533693a8c7bf603c999a26d0ca",
+      "bytes": 58416
+    },
+    "/sadi-media/owner-20261028/saedit2-9432b03e9f89.mp4": {
+      "path": "sadi-media/owner-20261028/saedit2-9432b03e9f89.mp4",
+      "sha256": "9432b03e9f891e58bbe91ac0770680f664dd2d831f494010bfb925e91c90ff66",
+      "bytes": 9555962
+    },
+    "/sadi-media/owner-20261028/saedit2-9432b03e9f89.webp": {
+      "path": "sadi-media/owner-20261028/saedit2-9432b03e9f89.webp",
+      "sha256": "a78e52f26957518dca129553e882ab9774599977aa7953dee3d82caee608b971",
+      "bytes": 46724
+    },
+    "/sadi-media/owner-20261028/saedit2pro-1399d3924f11.mp4": {
+      "path": "sadi-media/owner-20261028/saedit2pro-1399d3924f11.mp4",
+      "sha256": "1399d3924f11f2159282455050e1e42afcd1e07fc7aef87e83145ac375556e70",
+      "bytes": 8350792
+    },
+    "/sadi-media/owner-20261028/saedit2pro-1399d3924f11.webp": {
+      "path": "sadi-media/owner-20261028/saedit2pro-1399d3924f11.webp",
+      "sha256": "2589f5d938c132e7ef35aca32f248841f032323d5e6b35baf415356179b55c41",
+      "bytes": 44206
+    },
+    "/sadi-media/owner-20261028/saedit2pro-9aaa704b5197.mp4": {
+      "path": "sadi-media/owner-20261028/saedit2pro-9aaa704b5197.mp4",
+      "sha256": "9aaa704b519745862ef7fda99ec5cdd76c99049a39f7f11a94b33f96c5740c7f",
+      "bytes": 8638485
+    },
+    "/sadi-media/owner-20261028/saedit2pro-9aaa704b5197.webp": {
+      "path": "sadi-media/owner-20261028/saedit2pro-9aaa704b5197.webp",
+      "sha256": "475567572b41119428d3ed6e3c659e790bf4a09122a75ff2a5006b75f0f5fb33",
+      "bytes": 41988
+    },
+    "/sadi-media/owner-20261028/saedit2pro-cetra.mp4": {
+      "path": "sadi-media/owner-20261028/saedit2pro-cetra.mp4",
+      "sha256": "9f7acc1353a2be78553bde1ec1a083a401b3fda0fb0f0b168c95b865de846de7",
+      "bytes": 2106606
+    },
+    "/sadi-media/owner-20261028/saedit2pro-cetra.webp": {
+      "path": "sadi-media/owner-20261028/saedit2pro-cetra.webp",
+      "sha256": "17d8705ff427d6666535cb15c0cbc0db46dac3d611a28088144b87c18900d564",
+      "bytes": 43984
+    },
+    "/sadi-media/owner-20261028/saedit3-depth.mp4": {
+      "path": "sadi-media/owner-20261028/saedit3-depth.mp4",
+      "sha256": "055ba03f756394cfe31f683aa20c2fecf429f0c3511240a082f7c96dbaccb391",
+      "bytes": 2499684
+    },
+    "/sadi-media/owner-20261028/saedit3-depth.webp": {
+      "path": "sadi-media/owner-20261028/saedit3-depth.webp",
+      "sha256": "44475aba58a0507f63565a4700626ac7fa623dc23b86e4eecf8281936ce8cdbd",
+      "bytes": 27546
+    },
+    "/sadi-media/owner-20261028/saedit4-130.mp4": {
+      "path": "sadi-media/owner-20261028/saedit4-130.mp4",
+      "sha256": "823b0f9fa36e1820d3aa01dd89b8d704e7f457fa2c56af42bbe07a3792356dcb",
+      "bytes": 3051732
+    },
+    "/sadi-media/owner-20261028/saedit4-130.webp": {
+      "path": "sadi-media/owner-20261028/saedit4-130.webp",
+      "sha256": "80d3f9f0abbc7835bc42e85b3c223bb3255e1db8bfaa0f8c81c8f16dfe85f7a3",
+      "bytes": 35190
+    },
+    "/sadi-media/owner-20261028/saedit4-131.mp4": {
+      "path": "sadi-media/owner-20261028/saedit4-131.mp4",
+      "sha256": "a05c63d2f1ad143d268d853a9a8211d916e84851e89f993b1079ba8dbdacd087",
+      "bytes": 3043941
+    },
+    "/sadi-media/owner-20261028/saedit4-131.webp": {
+      "path": "sadi-media/owner-20261028/saedit4-131.webp",
+      "sha256": "d3ebacb176c978e5c0bbf94888860831aa4e6ad03b0a41700376ac3a44fdcd19",
+      "bytes": 33276
+    },
+    "/sadi-media/posters/saedit-1-alt.webp": {
+      "path": "sadi-media/posters/saedit-1-alt.webp",
+      "sha256": "481b9d5bb19e602e134211aff5f6d309e400b84e41ed2d4d96d86547438e2698",
+      "bytes": 80846
+    },
+    "/sadi-media/posters/saedit-1-demo.webp": {
+      "path": "sadi-media/posters/saedit-1-demo.webp",
+      "sha256": "e8a653f12397f0d2d208b14ad872e0e521105faa73bcb5f319e3779943e0d67b",
+      "bytes": 102386
+    },
+    "/sadi-media/posters/saedit-2-alt.webp": {
+      "path": "sadi-media/posters/saedit-2-alt.webp",
+      "sha256": "4d07c4a7398dd6967fa255b60bbe10e1dda70179aa3f43a0fcf4baa32d80cad3",
+      "bytes": 60164
+    },
+    "/sadi-media/posters/saedit-2-demo.webp": {
+      "path": "sadi-media/posters/saedit-2-demo.webp",
+      "sha256": "abb9249d4b92c541973796f04ae1e1553466cded35219efa9a6d61c3c4be55b4",
+      "bytes": 67128
+    },
+    "/sadi-media/posters/saedit-3-demo.webp": {
+      "path": "sadi-media/posters/saedit-3-demo.webp",
+      "sha256": "739a340f900bbccbebb6adc387efd77ba8d36982acdff44a5212838f2ea2b790",
+      "bytes": 48476
+    },
+    "/sadi-media/posters/saedit-launch.webp": {
+      "path": "sadi-media/posters/saedit-launch.webp",
+      "sha256": "5561d7de1ff72f97c114d4a942e137858a05a02a3ca7e9122c907da58f67c76a",
+      "bytes": 15668
+    },
+    "/sadi-media/posters/samotion-1-launch.webp": {
+      "path": "sadi-media/posters/samotion-1-launch.webp",
+      "sha256": "b1ff5a0889323d895492581c0432c7c49f4c173b43421dbf0336786e6b61adad",
+      "bytes": 19004
+    },
+    "/sadi-media/samotion3-editorai.mp4": {
+      "path": "sadi-media/samotion3-editorai.mp4",
+      "sha256": "e1296d2f144acdb5cbbf43fa292d1db601d2fbd99bb8501e6c1a84d3cebc50cd",
+      "bytes": 11427880
+    },
+    "/sadi-media/samotion3-editorai.webp": {
+      "path": "sadi-media/samotion3-editorai.webp",
+      "sha256": "c43c836cc5b8a5367353ff8b1e60cba20fbbcc6eecaa9d4cfd4897aeec3234fa",
+      "bytes": 22650
+    },
+    "/sadi-thumbnails/newsletter-illustration.webp": {
+      "path": "sadi-thumbnails/newsletter-illustration.webp",
+      "sha256": "4bfe22c19e34863cfb0142db162db275829b1bf5d1e5103397ac7cdbe557191c",
+      "bytes": 77664
+    },
+    "/sadi-thumbnails/sadi-creator-pro-16x9.webp": {
+      "path": "sadi-thumbnails/sadi-creator-pro-16x9.webp",
+      "sha256": "9833c176bf84fe7e401dfc2dd4de248cf9cb046c1567146d89678bc1383bf313",
+      "bytes": 190970
+    },
+    "/sadi-thumbnails/sadi-creator-pro-9x16.webp": {
+      "path": "sadi-thumbnails/sadi-creator-pro-9x16.webp",
+      "sha256": "1d2ad9413ce8e47ec34b98c488b203127f2a0dafa638ed99afa9bc8e91569f8f",
+      "bytes": 125656
+    },
+    "/sadi-thumbnails/sadi-creator-pro.webp": {
+      "path": "sadi-thumbnails/sadi-creator-pro.webp",
+      "sha256": "9833c176bf84fe7e401dfc2dd4de248cf9cb046c1567146d89678bc1383bf313",
+      "bytes": 190970
+    },
+    "/sadi-thumbnails/sadi-telemetry-kit-16x9.webp": {
+      "path": "sadi-thumbnails/sadi-telemetry-kit-16x9.webp",
+      "sha256": "6da277670e7ad4823fc5568f6e4390d1df39e2a966ab49f773162a01622392e9",
+      "bytes": 120856
+    },
+    "/sadi-thumbnails/sadi-telemetry-kit-9x16.webp": {
+      "path": "sadi-thumbnails/sadi-telemetry-kit-9x16.webp",
+      "sha256": "5e049dd92490b2c7f942cf5b6b4567025a257b77dd7690b4821901d76ddea23e",
+      "bytes": 132328
+    },
+    "/sadi-thumbnails/sadi-telemetry-kit.webp": {
+      "path": "sadi-thumbnails/sadi-telemetry-kit.webp",
+      "sha256": "6da277670e7ad4823fc5568f6e4390d1df39e2a966ab49f773162a01622392e9",
+      "bytes": 120856
+    },
+    "/sadi-thumbnails/saedit-1-16x9.webp": {
+      "path": "sadi-thumbnails/saedit-1-16x9.webp",
+      "sha256": "ee440a682b0008af11e80e949ee232e569ab29361e8f1d48e4b2e2c68cc6f007",
+      "bytes": 105654
+    },
+    "/sadi-thumbnails/saedit-1-9x16.webp": {
+      "path": "sadi-thumbnails/saedit-1-9x16.webp",
+      "sha256": "1dea3996846c21a2fd14fd6c6b303fc79808d478486491ee9eb105c14fc5f9ff",
+      "bytes": 134360
+    },
+    "/sadi-thumbnails/saedit-1.webp": {
+      "path": "sadi-thumbnails/saedit-1.webp",
+      "sha256": "1dea3996846c21a2fd14fd6c6b303fc79808d478486491ee9eb105c14fc5f9ff",
+      "bytes": 134360
+    },
+    "/sadi-thumbnails/saedit-16x9.webp": {
+      "path": "sadi-thumbnails/saedit-16x9.webp",
+      "sha256": "da389a29c045285bcf898ca3afab27ab443d110d75277e5c1b157b6beb3b5e07",
+      "bytes": 184460
+    },
+    "/sadi-thumbnails/saedit-2-16x9.webp": {
+      "path": "sadi-thumbnails/saedit-2-16x9.webp",
+      "sha256": "1f970382f9f02f6d901daa09429f5653e83a9b13d23ba7244f897b41b304672e",
+      "bytes": 149006
+    },
+    "/sadi-thumbnails/saedit-2-9x16.webp": {
+      "path": "sadi-thumbnails/saedit-2-9x16.webp",
+      "sha256": "d204cfe2120ce374b915936899a526868c4222d2bbc399f12c462e33ddf0c1cd",
+      "bytes": 148576
+    },
+    "/sadi-thumbnails/saedit-2.webp": {
+      "path": "sadi-thumbnails/saedit-2.webp",
+      "sha256": "d204cfe2120ce374b915936899a526868c4222d2bbc399f12c462e33ddf0c1cd",
+      "bytes": 148576
+    },
+    "/sadi-thumbnails/saedit-3-16x9.webp": {
+      "path": "sadi-thumbnails/saedit-3-16x9.webp",
+      "sha256": "5718049f4b461862a31981895b6ee7e2fbace77f6d26c925bd06efdfbc1ae1d5",
+      "bytes": 108968
+    },
+    "/sadi-thumbnails/saedit-3-9x16.webp": {
+      "path": "sadi-thumbnails/saedit-3-9x16.webp",
+      "sha256": "31a5fa5da3f3c4428d56638e6cc6249d40052b53b11741ed2469a05c73a09639",
+      "bytes": 164946
+    },
+    "/sadi-thumbnails/saedit-3.webp": {
+      "path": "sadi-thumbnails/saedit-3.webp",
+      "sha256": "5718049f4b461862a31981895b6ee7e2fbace77f6d26c925bd06efdfbc1ae1d5",
+      "bytes": 108968
+    },
+    "/sadi-thumbnails/saedit-9x16.webp": {
+      "path": "sadi-thumbnails/saedit-9x16.webp",
+      "sha256": "a840aee05271fe10a36d97785f884578f4dda394840f0453149e4c76277a5110",
+      "bytes": 178288
+    },
+    "/sadi-thumbnails/saedit.webp": {
+      "path": "sadi-thumbnails/saedit.webp",
+      "sha256": "da389a29c045285bcf898ca3afab27ab443d110d75277e5c1b157b6beb3b5e07",
+      "bytes": 184460
+    },
+    "/sadi-thumbnails/samotion-1-16x9.webp": {
+      "path": "sadi-thumbnails/samotion-1-16x9.webp",
+      "sha256": "9aa2fe13bc7619d91842889d38b16d96846eba52952420c5eccdfae428efea90",
+      "bytes": 143554
+    },
+    "/sadi-thumbnails/samotion-1-9x16.webp": {
+      "path": "sadi-thumbnails/samotion-1-9x16.webp",
+      "sha256": "6511c5ef68bc73377c1cd3725a86324710ed12677d1b320b3039982d55e76dfe",
+      "bytes": 120098
+    },
+    "/sadi-thumbnails/samotion-1.webp": {
+      "path": "sadi-thumbnails/samotion-1.webp",
+      "sha256": "9aa2fe13bc7619d91842889d38b16d96846eba52952420c5eccdfae428efea90",
+      "bytes": 143554
+    },
+    "/sadi-thumbnails/samotion-2-16x9.webp": {
+      "path": "sadi-thumbnails/samotion-2-16x9.webp",
+      "sha256": "07e43b468540a9119d314a9fd2610c2f209616534c1c6a0a39a0d9506e55e5a6",
+      "bytes": 119730
+    },
+    "/sadi-thumbnails/samotion-2-9x16.webp": {
+      "path": "sadi-thumbnails/samotion-2-9x16.webp",
+      "sha256": "999b4228df95b078681507c75c357b807b5246eac35c6b000e2a35d7de3186a0",
+      "bytes": 133220
+    },
+    "/sadi-thumbnails/samotion-2.webp": {
+      "path": "sadi-thumbnails/samotion-2.webp",
+      "sha256": "999b4228df95b078681507c75c357b807b5246eac35c6b000e2a35d7de3186a0",
+      "bytes": 133220
+    },
+    "/sadi-thumbnails/vinh-phuc-creator.webp": {
+      "path": "sadi-thumbnails/vinh-phuc-creator.webp",
+      "sha256": "c1c82f752c87ad8abd5c0bc25797ced158d2541831aa4d6d9ffe45bc02a8d253",
+      "bytes": 121488
+    }
+  }
+}
